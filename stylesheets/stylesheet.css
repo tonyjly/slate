@@ -81,6 +81,7 @@ p {
 
 footer p {
   color: #f2f2f2;
+  white-space: nowrap;
 }
 
 a {
@@ -223,6 +224,14 @@ Full-Width Styles
   max-width: 960px;
   padding: 20px 10px;
   margin: 0 auto;
+}
+
+.innersocial {
+  position: relative;
+  max-width: 960px;
+  padding: 20px 10px;
+  margin: 0 auto;
+  white-space: nowrap;
 }
 
 #forkme_banner {
